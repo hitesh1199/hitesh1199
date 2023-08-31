@@ -58,12 +58,11 @@
 
 <!-- Connect with Me Section -->
 ## 📱 Connect with Me:
-<a href="https://www.linkedin.com/in/aman0162/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aman Agrahari LinkedIn" height="30" width="120" /></a>
-<a href="mailto:aagrahari629@gmail.com" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/hitesh-ahuja-1b1779168/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aman Agrahari LinkedIn" height="30" width="120" /></a>
+<a href="mailto:hahuja1199@gmail.com" target="_blank" rel="noreferrer">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Aman Agrahari Gmail" height="30" width="90" />
 </a>
-<a href="https://twitter.com/AmanAgr17117561" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Your Twitter" height="30" width="100" /></a>
-<a href="https://www.instagram.com/last_player_aman/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Your Instagram" height="30" width="110" /></a>
+
 <!-- Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Divider" />
@@ -73,16 +72,16 @@
 ## 📈 Stats :
 <!-- GitHub Stats Cards with enhanced styling -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanAgrahariaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh1199&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanAgrahariaa&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hitesh1199&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
 
 
 <!-- Contribution Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanAgrahariaa&hide_stars=true&hide_rank=true&hide_border=true" alt="GitHub Contributions" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh1199&hide_stars=true&hide_rank=true&hide_border=true" alt="GitHub Contributions" />
 </p>
 
