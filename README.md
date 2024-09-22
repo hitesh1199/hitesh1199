@@ -9,7 +9,8 @@
 
 <!-- About Me Section -->
 ## 📝 About Me :
-- 🎓 Pursuing Masters in Computer Applications(MCA) from **NIT Jamshedpur**
+- SDE 1 at Amazon
+- 🎓 Masters in Computer Applications(MCA) from **NIT Jamshedpur**
 - ✏️ Love solving problems
 
 <!-- Divider -->
